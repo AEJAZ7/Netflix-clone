@@ -1103,6 +1103,11 @@ option {
                height: 37vh;
                width: 99%;
             }
+            .emailsign {
+               display: flex;
+               flex-direction: column;
+               justify-content: center;
+               margin-top: 10%;}
          }
 
          @media(max-width:450px) {
@@ -1118,4 +1123,18 @@ option {
             .heading6 {
                height: 116vh;
             }
+            .emailsign button {
+               height: 6vh;
+               width: 130px;}
+          .emailsign {
+                  display: flex;
+                  flex-direction: column;
+                  justify-content: center;
+                  margin-top: 10%;}
+                  .bar4{
+                     padding-right: 74%;
+                  }
+                  .end{
+                     padding-left: 30px;
+                  }
          }
