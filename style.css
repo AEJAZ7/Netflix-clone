@@ -1137,9 +1137,63 @@ option {
                   .end{
                      padding-left: 30px;
                   }
+                  .heading2 {
+                     height: auto;}
+                     
+                     .heding3 {
+                        flex-direction: column-reverse;
+                        height: auto;
+                    }
+                    .end {
+                     height: auto;}
+                     .heading6 {
+                        height: auto;
+                    }
+                    .heading5 {
+                     height: auto;
+                 }
+                 .heading4 {
+                  height: 65vh;
+              }
+              .bg {
+               width: 100%;
+               height: auto;
+           }
+           .heading4 h1 {
+            text-align: center;
+            font-size: larger;
+        }
          }
          @media(max-width:400px){
 
             .heading6 {
                height: 119vh;}
+
+               .heading2 {
+                  height: auto;}
+                  
+                  .heding3 {
+                     flex-direction: column-reverse;
+                     height: auto;
+                 }
+                 .end {
+                  height: auto;}
+                  .heading6 {
+                     height: auto;
+                 }
+                 .heading5 {
+                  height: auto;
+              }
+              .heading4 {
+               height: 65vh;
+           }
+           .bg {
+            width: 100%;
+            height: auto;
+        }
+        .heading4 h1 {
+         text-align: center;
+         font-size: larger;
+     }
+      }
          }
