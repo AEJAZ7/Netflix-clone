@@ -1138,3 +1138,8 @@ option {
                      padding-left: 30px;
                   }
          }
+         @media(max-width:400px){
+
+            .heading6 {
+               height: 119vh;}
+         }
