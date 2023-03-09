@@ -1153,7 +1153,7 @@ option {
                      height: auto;
                  }
                  .heading4 {
-                  height: 54vh;
+                  height: 47vh;
               }
               .bg {
                width: 100%;
@@ -1178,6 +1178,10 @@ option {
                      width: 130px;
                      padding-top: 9%;
                  }
+                 .heading4 .text {
+                  width: 50%;
+                  margin-top: 1%;
+              }
          }
          @media(max-width:400px){
 
@@ -1200,7 +1204,7 @@ option {
                   height: auto;
               }
               .heading4 {
-               height: 54vh;
+               height: 47vh;
            }
            .bg {
             width: 100%;
@@ -1226,5 +1230,9 @@ option {
                   width: 130px;
                   padding-top: 9%;
               }
+              .heading4 .text {
+               width: 50%;
+               margin-top: 1%;
+           }
       }
          
