@@ -1213,6 +1213,17 @@ option {
             .st .sttittle h4 {
                color: #fff;
                font-size: small;}
+          .st .stimg img {
+                  height: 9vh;
+                  width: 100%;
+                  padding-left: 11%;
+                  padding-top: 24%;}
+          .st {
+                     display: flex;
+                     background-color: #000;
+                     width: 51%;
+                     height: 11vh;
+                 }
          }
 
          @media(max-width:400px) {
@@ -1299,4 +1310,15 @@ option {
            .st .sttittle h4 {
             color: #fff;
             font-size: small;}
-         }
+            .st .stimg img {
+               height: 9vh;
+               width: 100%;
+               padding-left: 11%;
+               padding-top: 24%;}
+               .st {
+                  display: flex;
+                  background-color: #000;
+                  width: 51%;
+                  height: 11vh;
+              }
+            }
