@@ -1210,6 +1210,9 @@ option {
                width: 50%;
                margin-top: 1%;
             }
+            .st .sttittle h4 {
+               color: #fff;
+               font-size: small;}
          }
 
          @media(max-width:400px) {
@@ -1286,4 +1289,14 @@ option {
                width: 50%;
                margin-top: 1%;
             }
+            .st .icon img {
+               width: 75%;
+               margin-left: 0%;
+               margin-top: 20%;
+               padding-left: 0%;
+               padding-right: 0%;
+           }
+           .st .sttittle h4 {
+            color: #fff;
+            font-size: small;}
          }
